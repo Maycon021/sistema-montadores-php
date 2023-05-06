@@ -1,0 +1,74 @@
+
+
+.menufundo:hover{
+	background: #ADD8E6;
+}
+
+.fundo {
+	background:   transparent !important ; 
+	border-style: none;
+
+}
+
+.largura{
+	
+	padding-top: 8px;
+	width: 50% !important;
+	height: 100px !important;
+	margin: auto;
+
+}
+
+.texto-card{
+	text-align: center;
+	font-size: 1em;
+}
+
+.clientes:hover{
+	cursor: pointer;  
+	
+	background:   #ff8080
+
+   !important ;
+
+}
+
+.montador:hover{
+	cursor: pointer;  
+	
+	background:     #ffc266
+
+
+
+   !important ;
+
+}
+
+.servicos:hover{
+	cursor: pointer;  
+	
+	background:      #e699ff
+
+
+
+
+   !important ;
+
+}
+
+.margin{
+	
+	padding: 0!important;
+}
+
+.margin-card{
+	margin: 0px !important;
+	padding: 0 !important;
+}
+
+
+
+
+
+
+
